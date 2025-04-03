@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "servor --reload"
+    "start": "servor --reload",
+    "dev": "vite"
   },
   "dependencies": {
-    "servor": "^4.0.2"
+    "servor": "^4.0.2",
+    "vite": "^6.2.4"
   }
 }
